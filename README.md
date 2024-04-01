@@ -1,10 +1,11 @@
-# AmazonDashButtonEsp32Server
-This project uses an ESP8266/ESP32 to create a Server for the famous Amazon Dash Button.
+# ESPDashButtonEnsemble
+This project contains some attempts to create a dash button.
+As basis a ESP8266 or ESP32 is taken. Also some examples with Amazon Dashbutton mabe available ;)
 
 
 ## Hardware
 * Amazon Dashbutton
-* ESP Development board or equivalent
+* ESP8266/32 Development board or equivalent
 
 
 ## Tested with
